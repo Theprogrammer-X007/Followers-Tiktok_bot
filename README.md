@@ -81,6 +81,7 @@ ous serez invité à entrer le nom de l'utilisateur que vous souhaitez recherche
 # JSON files
 
 tiktok_users.json:Contient les identifiants de connexion des utilisateurs TikTok.
+
 comments.json: Contient les commentaires que le script peut poster sur les vidéos TikTok.
 
 
@@ -91,8 +92,9 @@ Les deux fichiers sont créés automatiquement s'ils n'existent pas. Assurez-vou
 Ce script est destiné uniquement à des fins éducatives. L'utilisation non autorisée de bots ou de scripts d'automatisation sur des plateformes comme TikTok peut enfreindre leurs conditions d'utilisation. Utilisez ce script à vos risques et périls.
 
 # Contributions
+
 Si vous avez des suggestions ou des améliorations, n'hésitez pas à forker le projet et à envoyer une pull request.
 
-# Developer
+# Developpeur :@The programmer
 
 **Developer:** @The programmer
