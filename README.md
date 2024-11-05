@@ -18,7 +18,7 @@ Avant d'exécuter le script, assurez-vous d'avoir les éléments suivants instal
    git clone https://github.com/Theprogrammer-X007/Followers-Tiktok_bot.git
    ```
    ```bash
-   cd followers-tiktok
+   cd Followers-Tiktok_bot
    ```
 
 2. Installez les dépendances nécessaires :
