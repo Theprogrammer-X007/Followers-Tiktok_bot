@@ -16,7 +16,7 @@ Before running the script, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CHICO-CP/followers-tiktok.git
+   git clone https://github.com/Theprogrammer-X007/Followers-Tiktok_bot.git
    ```
    ```bash
    cd followers-tiktok
