@@ -2,7 +2,7 @@
 
 Ce script d'automatisation utilise Pyppeteer pour interagir avec TikTok. Il permet de se connecter à TikTok, de rechercher un utilisateur, de le suivre, d'aimer ses vidéos et de poster des commentaires prédéfinis.
 
-##Prérequis
+## Prérequis
 
 Avant d'exécuter le script, assurez-vous d'avoir les éléments suivants installés :
 
