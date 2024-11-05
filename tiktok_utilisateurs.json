@@ -1,0 +1,12 @@
+{
+    "utilisateurs": [
+        {
+            "nom_utilisateur": "exemple_utilisateur1",
+            "mot_de_passe": "exemple_motdepasse1"
+        },
+        {
+            "nom_utilisateur": "exemple_utilisateur2",
+            "mot_de_passe": "exemple_motdepasse2"
+        }
+    ]
+}
